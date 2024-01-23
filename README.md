@@ -1,11 +1,11 @@
 
 ### Hi there 👋, my name is Leonid
 
-I play sports and write projects publishing them on github. And also actively looking for work.
+I like sports and and code projects, publishing them on github. And also passively looking for work.
 <br />
 
 - 🎓 I study Computer Science at National Aviation University (🇺🇦)
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning Jakarta EE
 - 💬 Ask me about Java Core / Git / Linux / SQL / Spring 
 - 📫 How to reach me: **leonid.kharin.work@gmail.com**
 <br/>

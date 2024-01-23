@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Leonid
 
-I like sports and code projects, publishing them on github. And also passively looking for work.
+I enjoy sports, coding projects, and sharing them on GitHub. Currently open to job opportunities
 <br />
 
 - 🎓 I study Computer Science at National Aviation University (🇺🇦)

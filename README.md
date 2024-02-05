@@ -6,7 +6,7 @@ I enjoy sports, coding projects, and sharing them on GitHub. Currently open to j
 
 - 🎓 I study Computer Science at National Aviation University (🇺🇦)
 - 🌱 I’m currently learning Jakarta EE
-- 💬 Ask me about Java Core / Git / Linux / SQL / Spring 
+- 💬 Ask me about Java / Git / Linux / SQL / Spring 
 - 📫 How to reach me: **leonid.kharin.work@gmail.com**
 <br/>
 

@@ -5,7 +5,7 @@ I enjoy sports, coding projects, and sharing them on GitHub. Currently open to j
 <br />
 
 - 🎓 I study Computer Science at National Aviation University (🇺🇦)
-- 🌱 I’m currently studying Computer Science on the <a href="https://portal.programming.org.ua/" rel="noreferrer">Sh++ course</a>
+- 🌱 I’m currently studying Spring Boot 
 - 💬 Ask me about Java / Git / Linux / SQL / Spring 
 - 📫 How to reach me: **leonid.kharin.work@gmail.com**
 <br/>
